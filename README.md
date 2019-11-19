@@ -3,3 +3,4 @@
 新しい文章を追加
 さらに追加
 hello world
+i am shota.
